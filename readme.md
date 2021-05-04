@@ -1,4 +1,4 @@
-# ```Setting up OSC Dealership locally:`````
+#Setting up OSC Dealership locally:
 OSC Dealership requires:<br>
 Composer<br>
 A local server with database capability (Xampp for windows, Lamp for Linux and Mamp for Mac are all good)<br></br>
